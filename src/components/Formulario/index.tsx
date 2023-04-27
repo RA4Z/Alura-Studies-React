@@ -47,7 +47,7 @@ adicionarTarefa(evento: React.FormEvent<HTMLFormElement>) {
                     />
 
                 </div>
-                <Botao>Adicionar</Botao>
+                <Botao type="submit">Adicionar</Botao>
             </form>
         )
     }
